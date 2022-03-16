@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**Guilhermeapri/Guilhermeapri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 Atualmente estou trabalhando em .LANCHES
+- 🌱 Atualmente estou atualizando ..não 
+- 👯 Estou pesquisando em...
+- 🤔 Estou tentando ajuda com...hacker 
+- 💬 Pergunte-me sobre ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
